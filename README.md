@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![waneella-pixel-art](https://user-images.githubusercontent.com/107922176/175131528-3d0833b1-c9d4-4ef5-bf2d-a2abea7afca9.gif)
 <!--
 **marcela2006/marcela2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
