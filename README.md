@@ -1,5 +1,6 @@
-- 💬  Bem Vindo ao meu Perfil!!  Projetos iniciados em sala de aula (LARAVEL, KOTLIN, JAVA, BOOTSTRAP)
-![Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==](https://github.com/marcela2006/marcela2006/assets/107922176/ee7ea828-c43f-464f-a78c-30bb6b30799a)
+- 💬  Bem Vindo ao meu Perfil!!  Olá eu sou a Marcela, sou formada em Desenvolvimento de Sistemas pela Etec da Zona Leste e, em brave, estarei cursando Análise e Desenvolvimento de Sistemas na Fatec da Zona Leste.  
+![4RFT](https://github.com/marcela2006/marcela2006/assets/107922176/96389274-77e3-4aa2-8dbf-2d8e10df6031)
+
 
 
 
