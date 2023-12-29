@@ -1,5 +1,6 @@
 - 💬  Bem Vindo ao meu Perfil!!  Olá eu sou a Marcela, sou formada em Desenvolvimento de Sistemas pela Etec da Zona Leste e, em brave, estarei cursando Análise e Desenvolvimento de Sistemas na Fatec da Zona Leste.  
-![4RFT](https://github.com/marcela2006/marcela2006/assets/107922176/96389274-77e3-4aa2-8dbf-2d8e10df6031)
+![1599d7107019725 5f9d3c7bae636](https://github.com/marcela2006/marcela2006/assets/107922176/06a475b7-f046-42fc-8129-37bfea5ccef5)
+
 
 
 
