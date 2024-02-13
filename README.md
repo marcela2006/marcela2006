@@ -1,4 +1,4 @@
-- 💬 Sou formada em Desenvolvimento de Sistemas pela Etec da Zona Leste e, em breve, estarei cursando Análise e Desenvolvimento de Sistemas na Fatec da Zona Leste.
+- 💬 Sou formada em Desenvolvimento de Sistemas pela Etec da Zona Leste e, atualmento, estou cursando Análise e Desenvolvimento de Sistemas na Fatec da Zona Leste.
   
 ![1599d7107019725 5f9d3c7bae636](https://github.com/marcela2006/marcela2006/assets/107922176/06a475b7-f046-42fc-8129-37bfea5ccef5)
 
